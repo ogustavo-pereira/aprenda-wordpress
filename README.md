@@ -16,7 +16,7 @@
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
-    <a href="#youtube">YouTube</a>
+    <a href="#loudspeaker-youtube">YouTube</a>
 </p>
 
 
