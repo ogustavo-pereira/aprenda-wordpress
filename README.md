@@ -31,7 +31,7 @@
 
 | Curso                                                        | Escola/Site |         Nível          |     Assunto      | Pago/Gratuito |
 | :----------------------------------------------------------- | :---------- | :--------------------: | :--------------: | :-----------: |
-| Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors    |     :green_heart:      |       Tema       |    :free:     |
+| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors    |     :green_heart:      |       Tema       |    :free:     |
 | [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid    | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
 | [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura       |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
 
