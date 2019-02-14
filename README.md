@@ -41,18 +41,18 @@
 
 ## :newspaper: Blogs
 
-| Blog                                                         | Principal(is) Autor(es) |  Idioma   |
-| :----------------------------------------------------------- | :---------------------- | :-------: |
-| [WordPress News](https://br.wordpress.org/news/)             | WordPress Team          | Português |
-| [WordPress Blog](https://br.wordpress.org/team/)             | WordPress Comunity      | Português |
-| [Felipe Elia](https://felipeelia.com.br/)                    | Felipe Elia             | Português |
-| [[Mário Valney](https://mariovalney.com/)](https://mariovalney.com/) | Mário Valney            | Português |
-| [Blog Haste](https://www.hastedesign.com.br/blog/)           | Haste                   | Português |
-| [Forma Haste](https://forma.hastedesign.com.br/blog/)        | Haste                   | Português |
-| [Apiki](https://blog.apiki.com/)                             | Apiki                   | Português |
-| [Campus Code](http://blog.campuscode.com.br)                 | Campus Code Team        | Português |
-| [Yoast Blog](https://yoast.com/seo-blog/)                    | Yost                    |  Inglês   |
-| [Gutenberg Times](https://gutenbergtimes.com/)               | Gutenberg Times         |  Inglês   |
+| Blog                                                  | Principal(is) Autor(es) |  Idioma   |
+| :---------------------------------------------------- | :---------------------- | :-------: |
+| [WordPress News](https://br.wordpress.org/news/)      | WordPress Team          | Português |
+| [WordPress Blog](https://br.wordpress.org/team/)      | WordPress Comunity      | Português |
+| [Felipe Elia](https://felipeelia.com.br/)             | Felipe Elia             | Português |
+| [Mário Valney](https://mariovalney.com/)              | Mário Valney            | Português |
+| [Blog Haste](https://www.hastedesign.com.br/blog/)    | Haste                   | Português |
+| [Forma Haste](https://forma.hastedesign.com.br/blog/) | Haste                   | Português |
+| [Apiki](https://blog.apiki.com/)                      | Apiki                   | Português |
+| [Campus Code](http://blog.campuscode.com.br)          | Campus Code Team        | Português |
+| [Yoast Blog](https://yoast.com/seo-blog/)             | Yost                    |  Inglês   |
+| [Gutenberg Times](https://gutenbergtimes.com/)        | Gutenberg Times         |  Inglês   |
 
 [Ir para o índice](#Índice)
 
