@@ -21,6 +21,22 @@
 
 
 
+## :mortar_board: Cursos
+
+**Legenda:**
+
+- :green_heart:: Básico
+- :large_orange_diamond:: Intermediário
+- :red_circle:: Avançado
+
+| Curso                                                        | Escola/Site |         Nível          |     Assunto      | Pago/Gratuito |
+| :----------------------------------------------------------- | :---------- | :--------------------: | :--------------: | :-----------: |
+| Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors    |     :green_heart:      |       Tema       |    :free:     |
+| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid    | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
+| [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura       |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
+
+[Ir para o índice](#Índice)
+
 ## :newspaper: Blogs
 
 | Blog                                                         | Principal(is) Autor(es) |  Idioma   |
@@ -38,7 +54,13 @@
 
 [Ir para o índice](#Índice)
 
+## :circus_tent: Eventos Ativos
 
+| Nome do Evento                            | Região Realizada                     |
+| :---------------------------------------- | :----------------------------------- |
+| [WordCamp](https://central.wordcamp.org/) | São Paulo, Belo Horizonte, Fortaleza |
+
+[Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
 
@@ -67,4 +89,3 @@
 
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ Gustavo Pereira</h6>
-
