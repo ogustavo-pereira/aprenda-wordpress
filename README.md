@@ -37,6 +37,8 @@
 
 [Ir para o índice](#Índice)
 
+
+
 ## :newspaper: Blogs
 
 | Blog                                                         | Principal(is) Autor(es) |  Idioma   |
@@ -54,6 +56,8 @@
 
 [Ir para o índice](#Índice)
 
+
+
 ## :circus_tent: Eventos Ativos
 
 | Nome do Evento                            | Região Realizada                     |
@@ -61,6 +65,8 @@
 | [WordCamp](https://central.wordcamp.org/) | São Paulo, Belo Horizonte, Fortaleza |
 
 [Ir para o índice](#Índice)
+
+
 
 ## :speech_balloon: Comunidades
 
