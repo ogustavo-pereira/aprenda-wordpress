@@ -29,13 +29,13 @@
 - :large_orange_diamond:: Intermediário
 - :red_circle:: Avançado
 
-| Curso                                                        | Escola/Site                                                  |         Nível          |     Assunto      | Pago/Gratuito |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :--------------------: | :--------------: | :-----------: |
-| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube                                             |     :green_heart:      |       Tema       |    :free:     |
-| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid                                                     | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
-| [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura                                                        |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
-| [Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | DevMedia                                                     |     :green_heart:      |       CMS        |  :moneybag:   |
-| [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | [Darrel Wilson](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/#instructor-1)/Udemy |     :green_heart:      |   WooCommerce    |    :free:     |
+| Curso                                                        | Escola/Site      |         Nível          |     Assunto      | Pago/Gratuito |
+| :----------------------------------------------------------- | :--------------- | :--------------------: | :--------------: | :-----------: |
+| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
+| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
+| [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura            |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
+| [Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | DevMedia         |     :green_heart:      |       CMS        |  :moneybag:   |
+| [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     :green_heart:      |   WooCommerce    |    :free:     |
 
 [Ir para o índice](#Índice)
 
