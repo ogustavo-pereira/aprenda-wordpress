@@ -96,4 +96,4 @@
 
 
 
-<h6 align="center"><a href="/LICENSE">MIT</a> @ Gustavo Pereira</h6>
+<h6 align="center"><a href="/LICENSE">MIT</a> @ Learn Br</h6>
