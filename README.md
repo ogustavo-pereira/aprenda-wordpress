@@ -31,11 +31,12 @@
 
 | Curso                                                        | Escola/Site      |         Nível          |     Assunto      | Pago/Gratuito |
 | :----------------------------------------------------------- | :--------------- | :--------------------: | :--------------: | :-----------: |
-| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
-| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
 | [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura            |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
 | [Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | DevMedia         |     :green_heart:      |       CMS        |  :moneybag:   |
+| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
 | [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     :green_heart:      |   WooCommerce    |    :free:     |
+| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
+
 
 [Ir para o índice](#Índice)
 
@@ -45,16 +46,16 @@
 
 | Blog                                                  | Principal(is) Autor(es) |  Idioma   |
 | :---------------------------------------------------- | :---------------------- | :-------: |
-| [WordPress News](https://br.wordpress.org/news/)      | WordPress Team          | Português |
-| [WordPress Blog](https://br.wordpress.org/team/)      | WordPress Comunity      | Português |
-| [Felipe Elia](https://felipeelia.com.br/)             | Felipe Elia             | Português |
-| [Mário Valney](https://mariovalney.com/)              | Mário Valney            | Português |
-| [Blog Haste](https://www.hastedesign.com.br/blog/)    | Haste                   | Português |
-| [Forma Haste](https://forma.hastedesign.com.br/blog/) | Haste                   | Português |
 | [Apiki](https://blog.apiki.com/)                      | Apiki                   | Português |
+| [Blog Haste](https://www.hastedesign.com.br/blog/)    | Haste                   | Português |
 | [Campus Code](http://blog.campuscode.com.br)          | Campus Code Team        | Português |
-| [Yoast Blog](https://yoast.com/seo-blog/)             | Yost                    |  Inglês   |
+| [Felipe Elia](https://felipeelia.com.br/)             | Felipe Elia             | Português |
+| [Forma Haste](https://forma.hastedesign.com.br/blog/) | Haste                   | Português |
 | [Gutenberg Times](https://gutenbergtimes.com/)        | Gutenberg Times         |  Inglês   |
+| [Mário Valney](https://mariovalney.com/)              | Mário Valney            | Português |
+| [WordPress Blog](https://br.wordpress.org/team/)      | WordPress Comunity      | Português |
+| [WordPress News](https://br.wordpress.org/news/)      | WordPress Team          | Português |
+| [Yoast Blog](https://yoast.com/seo-blog/)             | Yost                    |  Inglês   |
 
 [Ir para o índice](#Índice)
 
@@ -74,13 +75,13 @@
 
 | Nome da Comunidade                                           | Tipo   |  Idioma   |
 | :----------------------------------------------------------- | :----- | :-------: |
+| [WordPress Belo Horizonte](https://www.meetup.com/WordPressBeloHorizonte/) | Meetup | Português |
 | [WordPress Brasil](wpbrasil.slack.com)                       | Chat   | Português |
 | [WordPress Curitiba](https://www.meetup.com/wpcuritiba/)     | Meetup | Português |
-| [WordPress Floripa](https://www.meetup.com/Meetup-WordPress-Floripa/) | Meetup | Português |
-| [WordPress Porto Alergre](https://www.meetup.com/wp-poa/)    | Meetup | Português |
-| [WordPress São Paulo](https://www.meetup.com/wpsampa/?_locale=pt-BR) | Meetup | Português |
+| [WordPress Floripa](https://www.meetup.com/Meetup-WordPress-Floripa/) | Meetup | Português | 
 | [WordPress Rio de Janeiro](https://www.meetup.com/wp-rio/)   | Meetup | Português |
-| [WordPress Belo Horizonte](https://www.meetup.com/WordPressBeloHorizonte/) | Meetup | Português |
+| [WordPress São Paulo](https://www.meetup.com/wpsampa/?_locale=pt-BR) | Meetup | Português |
+| [WordPress Porto Alergre](https://www.meetup.com/wp-poa/)    | Meetup | Português |
 
 [Ir para o índice](#Índice)
 
