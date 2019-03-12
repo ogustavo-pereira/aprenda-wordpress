@@ -95,5 +95,15 @@
 [Ir para o índice](#Índice)
 
 
+## Team
 
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/java/graphs/contributors).
+
+[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) |
+--- |
+[Gustavo Pereira](https://github.com/oguhpereira) | 
+
+[![felipeelia](https://avatars3.githubusercontent.com/u/184628?s=70&v=3)](https://github.com/felipeelia) |
+--- |
+[Felipe Elia](https://github.com/oguhpereira) | 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ Learn Br</h6>
