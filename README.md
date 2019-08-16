@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
-	<a href="#book-livros">Livros</a> •
+	<a href="#books-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#video_camera-palestras-vídeos">Palestras</a> •
 	<a href="#computer-screencasts">Screencasts</a> •
@@ -37,6 +37,22 @@
 | [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     :green_heart:      |   WooCommerce    |    :free:     |
 | [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
 
+
+[Ir para o índice](#Índice)
+
+
+
+## :books: Livros
+
+**Legenda:**
+
+- :green_heart:: Básico
+- :large_orange_diamond:: Intermediário
+- :red_circle:: Avançado
+
+| Livro                                                                                 | Autor            |  Editora               |   Nível          |     Assunto   | Pago/Gratuito |
+| :------------------------------------------------------------------------------------ | :--------------- | :--------------------: | :--------------: | :-----------: | :------------:|
+| [WordPress: de blogs pessoais a grandes portais](https://giancarlosilva.com.br/loja/) | [Giancarlo Silva](https://twitter.com/giancarlozero) | Autopublicado|     :green_heart:      | CMS/HTML/CSS/Tema |  :moneybag:   |
 
 [Ir para o índice](#Índice)
 
