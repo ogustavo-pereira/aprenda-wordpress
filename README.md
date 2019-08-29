@@ -103,10 +103,12 @@
 
 
 
-## :loudspeaker: YouTube
+## :loudspeaker: Vídeos
 
-| Nome da Comunidade                                           | Principal(is) Autor(es) |  Idioma   |
-| :----------------------------------------------------------- | :---------------------- | :-------: |
+| Nome da Comunidade                                                          | Principal(is) Autor(es) |  Idioma   |
+| :-------------------------------------------------------------------------- | :---------------------- | :-------: |
+| [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)          | WordPress.org           | Português |
+| :-------------------------------------------------------------------------- | :---------------------- | :-------: |
 | [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/) | Felipe Elia             | Português |
 
 [Ir para o índice](#Índice)
