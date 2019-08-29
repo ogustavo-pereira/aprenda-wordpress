@@ -16,7 +16,7 @@
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
-    <a href="#loudspeaker-youtube">YouTube</a>
+    <a href="#loudspeaker-videos">Vídeos</a>
 </p>
 
 
@@ -108,7 +108,6 @@
 | Nome da Comunidade                                                          | Principal(is) Autor(es) |  Idioma   |
 | :-------------------------------------------------------------------------- | :---------------------- | :-------: |
 | [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)          | WordPress.org           | Português |
-| :-------------------------------------------------------------------------- | :---------------------- | :-------: |
 | [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/) | Felipe Elia             | Português |
 
 [Ir para o índice](#Índice)
