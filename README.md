@@ -33,7 +33,7 @@
 | :----------------------------------------------------------- | :--------------- | :--------------------: | :--------------: | :-----------: |
 | [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | Alura            |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
 | [Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | DevMedia         |     :green_heart:      |       CMS        |  :moneybag:   |
-| [Criando um Tema no Wordpress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
+| [Criando um Tema no WordPress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
 | [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     :green_heart:      |   WooCommerce    |    :free:     |
 | [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | Origamid         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
 
@@ -91,8 +91,8 @@
 
 | Nome da Comunidade                                           | Tipo   |  Idioma   |
 | :----------------------------------------------------------- | :----- | :-------: |
+| [Slack da comunidade do WordPress Brasil](https://slack-wpbrasil.herokuapp.com/)    | Chat   | Português |
 | [WordPress Belo Horizonte](https://www.meetup.com/WordPressBeloHorizonte/) | Meetup | Português |
-| [WordPress Brasil](wpbrasil.slack.com)                       | Chat   | Português |
 | [WordPress Curitiba](https://www.meetup.com/wpcuritiba/)     | Meetup | Português |
 | [WordPress Floripa](https://www.meetup.com/Meetup-WordPress-Floripa/) | Meetup | Português | 
 | [WordPress Rio de Janeiro](https://www.meetup.com/wp-rio/)   | Meetup | Português |
