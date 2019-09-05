@@ -117,8 +117,10 @@
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/wordpress/graphs/contributors).
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![felipeelia](https://avatars3.githubusercontent.com/u/184628?s=70&v=3)](https://github.com/felipeelia)
---- | ---
-[Gustavo Pereira](https://github.com/oguhpereira) | [Felipe Elia](https://github.com/oguhpereira)
+| [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![claudiosanches](https://avatars1.githubusercontent.com/u/1264099?s=70&v=3)](https://github.com/claudiosanches) | [![felipeelia](https://avatars3.githubusercontent.com/u/184628?s=70&v=3)](https://github.com/felipeelia) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Gustavo Pereira](https://github.com/oguhpereira)            | [Claudio Sanches](https://github.com/claudiosanches)         | [Felipe Elia](https://github.com/felipeelia)                 |
+
+
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ Learn Br</h6>
