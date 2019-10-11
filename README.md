@@ -98,6 +98,7 @@
 | [WordPress Rio de Janeiro](https://www.meetup.com/wp-rio/)   | Meetup | Português |
 | [WordPress São Paulo](https://www.meetup.com/wpsampa/?_locale=pt-BR) | Meetup | Português |
 | [WordPress Porto Alergre](https://www.meetup.com/wp-poa/)    | Meetup | Português |
+| [WordPress Vitória](https://www.meetup.com/WordPressVix/)    | Meetup | Português |
 
 [Ir para o índice](#Índice)
 
