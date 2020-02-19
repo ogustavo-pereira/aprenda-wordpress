@@ -2,7 +2,7 @@
 <img src="/logo.png" width="500" alt="Aprenda WordPress">
 </p>
 <h1 align="center">Aprenda WordPress</h1>
-<p align="center">Central de conhecimento sobre desenvolvimento WordPress<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
+<p align="center">Central de conhecimento sobre desenvolvimento WordPress<br>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 
