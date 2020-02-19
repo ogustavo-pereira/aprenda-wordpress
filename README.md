@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/logo.png" width="500" alt="Aprenda WordPress">
+<img src="https://github.com/learnbr/wordpress/blob/master/logo.png?raw=true" width="500" alt="Aprenda WordPress">
 </p>
 <h1 align="center">Aprenda WordPress</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento WordPress<br>
