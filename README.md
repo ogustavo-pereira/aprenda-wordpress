@@ -2,7 +2,7 @@
 <img src="https://github.com/learnbr/wordpress/blob/master/logo.png?raw=true" width="500" alt="Aprenda WordPress">
 </p>
 <h1 align="center">Aprenda WordPress</h1>
-<p align="center">Central de conhecimento sobre desenvolvimento WordPress<br>
+<p align="center">Central de conhecimento sobre desenvolvimento WordPress </p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 
