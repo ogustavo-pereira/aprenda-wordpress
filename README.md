@@ -116,7 +116,8 @@
 ## Mais Sobre
 
 * [PHP](https://github.com/learnbr/php)
-
+* [HTML e CSS](https://github.com/learnbr/html-css)
+* [Javascript](https://github.com/learnbr/javascript)
 
 ## Team
 
