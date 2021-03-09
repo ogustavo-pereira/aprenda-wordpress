@@ -10,32 +10,22 @@
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#books-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
-	<a href="#video_camera-palestras-vídeos">Palestras</a> •
-	<a href="#computer-screencasts">Screencasts</a> •
 	<a href="#circus_tent-eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#paperclip-feeds">Feeds</a> •
-	<a href="#sound-podcasts">Podcasts</a> •
-    <a href="#loudspeaker-vídeos">Vídeos</a>
+    <a href="#mais-sobre">Mais Sobre</a>
 </p>
 
 
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
-
-| Curso                                                        | Escola/Site      |         Nível          |     Assunto      | Pago/Gratuito |
-| :----------------------------------------------------------- | :--------------- | :--------------------: | :--------------: | :-----------: |
-| [Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | [Alura](https://alura.com.br)            |     :green_heart:      | CMS/SEO/HTML/CSS |  :moneybag:   |
-| [Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | [DevMedia](https://www.devmedia.com.br)         |     :green_heart:      |       CMS        |  :moneybag:   |
-| [Criando um Tema no WordPress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     :green_heart:      |       Tema       |    :free:     |
-| [Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     :green_heart:      |   WooCommerce    |    :free:     |
-| [WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | [Origamid](https://www.origamid.com)         | :large_orange_diamond: |  WordPress CMS   |  :moneybag:   |
+Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
+:-- | :-- | :--: | :--: | :--:
+[Complete WooCommerce Plugin Tutorial For Wordpress 2017](https://www.udemy.com/complete-woocommerce-plugin-tutorial-for-wordpress-2017/) | D.Wilson/Udemy   |     Básico      |   WooCommerce    |    Gratuito     
+[Criando um Tema no WordPress](https://www.youtube.com/watch?v=NRcq2j_3S7w&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ) | HxTutors/Youtube |     Básico      |       Tema       |    Gratuito     
+[Curso WordPress para Iniciantes](https://www.devmedia.com.br/curso/curso-de-wordpress-para-iniciantes/374) | [DevMedia](https://www.devmedia.com.br)         |     Básico      |       CMS        |  Pago   
+[Carreira WordPress](https://www.alura.com.br/carreira-desenvolvedor-wordpress) | [Alura](https://alura.com.br)            |     Básico      | CMS/SEO/HTML/CSS |  Pago   
+[WordPress Como CMS](https://www.origamid.com/curso/wordpress-como-cms/) | [Origamid](https://www.origamid.com)         | Intermediário |  WordPress CMS   |  Pago   
 
 
 [Ir para o índice](#Índice)
@@ -46,13 +36,13 @@
 
 **Legenda:**
 
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
+- Básico: Básico
+- Intermediário: Intermediário
+- Avançado: Avançado
 
 | Livro                                                                                 | Autor            |  Editora               |   Nível          |     Assunto   | Pago/Gratuito |
 | :------------------------------------------------------------------------------------ | :--------------- | :--------------------: | :--------------: | :-----------: | :------------:|
-| [WordPress: de blogs pessoais a grandes portais](https://giancarlosilva.com.br/loja/) | [Giancarlo Silva](https://twitter.com/giancarlozero) | Autopublicado|     :green_heart:      | CMS/HTML/CSS/Tema |  :moneybag:   |
+| [WordPress: de blogs pessoais a grandes portais](https://giancarlosilva.com.br/loja/) | [Giancarlo Silva](https://twitter.com/giancarlozero) | Autopublicado|     Básico      | CMS/HTML/CSS/Tema |  Pago   |
 
 [Ir para o índice](#Índice)
 
@@ -103,29 +93,21 @@
 [Ir para o índice](#Índice)
 
 
-
-## :loudspeaker: Vídeos
-
-| Nome da Comunidade                                                          | Principal(is) Autor(es) |  Idioma   |
-| :-------------------------------------------------------------------------- | :---------------------- | :-------: |
-| [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)          | WordPress.org           | Português |
-| [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/) | Felipe Elia             | Português |
-
-[Ir para o índice](#Índice)
-
 ## Mais Sobre
 
 * [PHP](https://github.com/learnbr/php)
 * [HTML e CSS](https://github.com/learnbr/html-css)
 * [Javascript](https://github.com/learnbr/javascript)
+* [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)  
+* [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/)
 
-## Team
+## Time
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/wordpress/graphs/contributors).
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
-| [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![claudiosanches](https://avatars1.githubusercontent.com/u/1264099?s=70&v=3)](https://github.com/claudiosanches) | [![felipeelia](https://avatars3.githubusercontent.com/u/184628?s=70&v=3)](https://github.com/felipeelia) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Gustavo Pereira](https://github.com/oguhpereira)            | [Claudio Sanches](https://github.com/claudiosanches)         | [Felipe Elia](https://github.com/felipeelia)                 |
+* [Gustavo Pereira](https://github.com/oguhpereira)   
+* [Claudio Sanches](https://github.com/claudiosanches)     
+* [Felipe Elia](https://github.com/felipeelia)
 
 
 
