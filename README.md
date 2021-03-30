@@ -34,11 +34,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 ## :books: Livros
 
-**Legenda:**
-
-- Básico: Básico
-- Intermediário: Intermediário
-- Avançado: Avançado
 
 | Livro                                                                                 | Autor            |  Editora               |   Nível          |     Assunto   | Pago/Gratuito |
 | :------------------------------------------------------------------------------------ | :--------------- | :--------------------: | :--------------: | :-----------: | :------------:|
