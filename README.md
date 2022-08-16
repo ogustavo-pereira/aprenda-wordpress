@@ -95,15 +95,3 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 * [Javascript](https://github.com/learnbr/javascript)
 * [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)  
 * [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/)
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)   
-* [Claudio Sanches](https://github.com/claudiosanches)     
-* [Felipe Elia](https://github.com/felipeelia)
-
-
-
-<h6 align="center"><a href="/LICENSE">MIT</a> @ Learn Br</h6>
